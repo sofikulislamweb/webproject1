@@ -1,0 +1,294 @@
+@media(min-width: 320px) and (max-width: 575px){
+    /* manu part css start */
+
+    nav ul{
+        text-align: center;
+        background: rgba(0, 0, 0, .7);
+    }
+
+    nav ul .btnn{
+        margin-top: 10px;
+        margin-left: 0;
+    }
+
+    nav ul li a{
+        margin-left: 0;
+    }
+    nav ul li .srce{
+        margin-left: 0;
+    }
+
+    /* manu part css end */
+
+/* banner-part- css start */
+.banner .overlay{
+    padding: 80px 0 150px;
+}
+
+.banner .overlay .text h1{
+    font-size: 35px;
+}
+
+/* banner-part- css end */
+
+
+/* count-css-start */
+#count-down {
+    width: 98%;
+}
+
+/* count-css-end */
+
+
+/* event-part- css start */
+#event-about .title{
+    font-size: 20px;
+}
+
+#event-about .about-text-part h2{
+    font-size: 27px;
+}
+
+
+#event-about .about-text-part ul li{
+    font-size: 12px;
+}
+
+figure{
+    margin-top: 20px;
+}
+
+/* event-part- css end */
+
+
+
+/* feature-part- css start */
+
+
+#our-feature .text-content h3{
+    padding-bottom: 20px;
+}
+
+/* feature-part- css end */
+
+
+
+
+
+/* performers-part- css start */
+
+
+
+#performers-part .per-title-content h3{
+    font-size: 40px;
+}
+
+.img .overlay h4{
+    padding-top: 115px;
+}
+/* performers-part- css end */
+
+
+
+/* get-ticket part css start */
+
+#get-ticket .bor{
+    margin-bottom: 30px;
+}
+
+/* get-ticket part css end */
+
+/* play button part css start */
+
+
+#play-button .overlay .text h3{
+    font-size: 30px;
+}
+
+/* play button part css end */
+
+/* join event part css start */
+
+
+.taitle{
+    padding-top: 20px;
+}
+.taitle h3{
+    font-size: 25px;
+}
+
+#join-event .text-content ul li{
+    font-size: 17px;
+}
+
+
+
+
+/* join event part css end */
+
+}
+
+
+@media(min-width: 576px) and (max-width: 767px){
+
+
+/* banner-part- css start */
+.banner .overlay{
+    padding: 80px 0 150px;
+}
+
+.banner .overlay .text h1{
+    font-size: 59px;
+}
+
+/* banner-part- css end */
+
+
+/* event-part- css start */
+
+
+#event-about .about-text-part h2{
+    font-size: 33px;
+}
+
+
+figure{
+    margin-top: 20px;
+}
+
+/* event-part- css end */
+
+
+
+/* feature-part- css start */
+
+
+#our-feature .text-content h3{
+    padding-bottom: 20px;
+}
+
+/* feature-part- css end */
+
+/* performers-part- css start */
+
+.img .overlay h4{
+    padding-top: 185px;
+}
+/* performers-part- css end */
+
+
+/* get-ticket part css start */
+
+#get-ticket .bor{
+    margin-bottom: 30px;
+}
+
+/* get-ticket part css end */
+
+
+
+
+/* play button part css start */
+
+
+#play-button .overlay .text h3{
+    font-size: 42px;
+}
+
+/* play button part css end */
+
+}
+
+@media(min-width: 768px) and (max-width: 991px){
+
+/* event-part- css start */
+#event-about .about-text-part h2{
+    font-style: 30px;
+    }
+.about-img-box{
+    padding-top: 150px;
+}
+
+
+/* event-part- css end */
+
+
+/* performers-part- css start */
+.img .overlay h4{
+    padding-top: 20px;
+    font-size: 18px;
+}
+
+.img .overlay p{
+    padding-top: 6px;
+    font-size: 13px;
+    margin-bottom: 5px;
+}
+
+
+
+.img .overlay i {
+    width: 25px;
+    height: 30px; 
+    line-height: 30px;
+    font-size: 13px;
+   
+}
+/* performers-part- css end */
+
+/* get-ticket part css start */
+
+#get-ticket .bor{
+    margin-bottom: 30px;
+}
+#get-ticket .text i{
+    left: 39%;
+}
+
+/* get-ticket part css end */
+
+
+
+/* join event part css start */
+
+.taitle h3{
+    font-size: 26px;
+}
+
+#join-event .text-content p{
+    font-size: 14px;
+}
+#join-event .text-content ul li{
+    font-size: 14px;
+}
+
+
+/* join event part css end */
+
+
+
+
+}
+
+@media(min-width: 992px) and (max-width: 1199px){
+
+    /* nav css start*/
+
+    nav ul li a{
+        margin-left: 20px;
+    }
+    /* nav css end*/
+/* performers-part- css start */
+    .img .overlay h4{
+        padding-top: 20px;
+    }
+/* performers-part- css end */
+}
+
+
+
+
+
+
+
+
